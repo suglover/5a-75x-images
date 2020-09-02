@@ -1,4 +1,8 @@
-# 5a-75x-bitstreams
+# 5a-75x-images
+
+A collection of flash images from Colorlight 5A-75B / 5A-75E boards.
+
+## How to dump image
 
 To read out a flash chip on your board, you need an ftdi-based JTAG adapter and [ecpprog](https://github.com/gregdavill/ecpprog) software.
 You can use the following command to dump the image:
